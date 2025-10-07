@@ -2,7 +2,7 @@
 
 📍 Mendoza, Argentina
 📧 olmedoelianaj@gmail.com
- | ☎️ 2616528776
+
 🔗 LinkedIn: https://www.linkedin.com/in/eliana-olmedo/
  
 🚀 Perfil Profesional
@@ -53,8 +53,6 @@ Dashboards interactivos para storytelling de datos en contextos profesionales y 
 📬 Contacto
 
 📧 Email: olmedoelianaj@gmail.com
-
-📱 Celular: +54 9 261 6528776
 
 💼 LinkedIn: linkedin.com/in/eliana-olmedo
 
